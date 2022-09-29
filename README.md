@@ -5,5 +5,3 @@
 
  - main.cpp file should be run on codeblocks as graphics.h is used.
  
-![Screenshot1](./screenshot1.png)
-![Screenshot2](./screenshot2.png)
