@@ -304,5 +304,5 @@ int main()
     1st version --> Displays grid of sudoku with indices and user can put values in grid in empty places only and check for score
     2nd version --> Computer solves the sudoku given using backtracking algorithm and bounding function
 
-    <---Created by Vedant Valsangkar--->
+    <---Created by Omkareshwar Halli--->
 */
